@@ -1,0 +1,6 @@
+The spam detection is a big issue in mobile message communication due to which mobile message communication is insecure. In order to tackle this problem, an accurate and precise method is needed to detectthe spam in mobile message communication. We proposed the applications of the machine learning- based spam detection method for accurate detection. In this technique, machine learning classifiers suchas Logistic regression (LR), K-nearest neighbor (K-NN), and decision tree (DT) are used for classification of ham and spam messages in mobile device communication. The SMS spam collection data set is used for testing the method. The dataset is split into two categories fortraining and testing the research. The results of the experiments demonstrated that the classification performance of LR is high as compared with K-NN and DT, and the LR achieved a high accuracy of99%. Additionally, the proposed method performance is good as compared with the existing state-of-the-art methods.
+There are four objectives that need to be achieved in this project:
+i. To study on how to use machine learning techniques for spam detection.
+ii. To modify machine learning algorithm in computer system settings.
+iii. To leverage modified machine learning algorithm in knowledge analysis software.
+iv. To test the machine learning algorithm real data from machine learningdata repository.
